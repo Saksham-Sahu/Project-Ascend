@@ -1,0 +1,5 @@
+print("welcome to calculator")
+First_number = input("Enter first number:")
+Select_operation = input("Select operation: +,-,*,/ ")
+Second_number = input("Enter second number:")
+print("The result is:", First_number, Select_operation, Second_number, "is", eval(First_number + Select_operation + Second_number))

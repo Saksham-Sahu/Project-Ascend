@@ -1,0 +1,11 @@
+print("Student Id card")
+Name = input("Enter your name:")
+Age = input("Enter your age:")
+Branch = input("Enter your branch:")
+College = input("Enter your college name:")
+print("Student name is:", Name)
+print("Student age is:", Age)
+print("Student branch is:", Branch)
+print("Student college name is:", College)
+
+print("Welcome to engeering college")
